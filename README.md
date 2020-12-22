@@ -1,1 +1,2 @@
 # Amex_Analyze-This_2019
+This is my solution for the Amex Analyze this competition 2019. The problem statement was to predict credit line assigned upon which credit would should be given to bank customers. It was a classification problem thus i used  models like KneighboursClassifier, Decision tree, logistic regression to predict values. Based on the acuuracy score best prediction was done by Logistic regression and other models overfitted the data.
